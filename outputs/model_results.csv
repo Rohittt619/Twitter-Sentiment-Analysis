@@ -1,0 +1,4 @@
+Model,Accuracy
+Linear SVM,0.9259066085782659
+Logistic Regression,0.9177762778425477
+Naive Bayes,0.7470086518991226
