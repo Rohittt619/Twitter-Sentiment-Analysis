@@ -8,7 +8,7 @@ An end-to-end **Natural Language Processing (NLP)** and **Machine Learning** pro
 
 ## 🖥️ Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Rohittt619/Twitter-Sentiment-Analysis/main/outputs/screenshots/dashboard.png)
 
 ---
 
