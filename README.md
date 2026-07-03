@@ -4,23 +4,23 @@ An end-to-end **Natural Language Processing (NLP)** and **Machine Learning** pro
 
 ---
 
-# 📸 Project Preview
+## 📸 Project Preview
 
-## 🖥️ Dashboard
+### 🖥️ Dashboard
 
-![Dashboard](https://raw.githubusercontent.com/Rohittt619/Twitter-Sentiment-Analysis/main/outputs/screenshots/dashboard.png)
-
----
-
-## ✍️ Live Tweet Prediction
-
-![Prediction](screenshots/prediction.png)
+![Dashboard](outputs/screenshots/dashboard.png)
 
 ---
 
-## 📊 Dataset Analytics
+### ✍️ Live Tweet Prediction
 
-![Analytics](screenshots/analytics.png)
+![Prediction](outputs/screenshots/prediction.png)
+
+---
+
+### 📊 Dataset Analytics
+
+![Analytics](outputs/screenshots/analytics.png)
 
 ---
 
